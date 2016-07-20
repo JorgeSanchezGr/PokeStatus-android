@@ -5,7 +5,7 @@ import {NavController} from 'ionic-angular';
 @Component({
   templateUrl: 'build/pages/home/home.html'
 })
-export class HomePage {
+export class Home {
   constructor(private navController: NavController) {
 
   }
