@@ -1,2 +1,16 @@
 .home {
+    background-color: blue;
+    color: white;
+}
+
+.home ion-navbar.toolbar{
+    background-color: red;
+    color: white;
+}
+.home ion-card{
+    background-color: green;
+}
+.home ion-card ion-card-header{
+    color: white;
+    text-align: center;
 }
